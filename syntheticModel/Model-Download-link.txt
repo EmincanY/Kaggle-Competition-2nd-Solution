@@ -1,0 +1,5 @@
+You can download the "model.pt" via this link,
+
+https://drive.google.com/drive/folders/1oQtNnge6w_HfFoSb4cLJaW6WHp_rfhzi?usp=sharing
+
+Then you should put the "model.pt" file into this folder and then you can run makeSyntheticData.ipynb notebook.
